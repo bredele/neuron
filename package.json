@@ -1,0 +1,25 @@
+{
+  "name": "neuron",
+  "version": "0.0.0",
+  "description": "artificial neuron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bredele/neuron.git"
+  },
+  "keywords": [
+    "neuron",
+    "neural",
+    "network",
+    "brain"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/neuron/issues"
+  },
+  "homepage": "https://github.com/bredele/neuron"
+}
