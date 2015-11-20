@@ -3,8 +3,8 @@
  * Artificial neuron.
  *
  * The artificial neuron receives one or more inputs (representing dendrites)
- * and sums them to produce an output after begin passed through a nonp-linear
- * funciton also called actication function.
+ * and sums them to produce an output after begin passed through a none-linear
+ * funciton also called activation function.
  *
  * Examples:
  *
