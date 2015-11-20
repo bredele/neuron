@@ -19,17 +19,6 @@ The example above illustrates a perceptron. A perceptron is a neuron where the a
 
 In an artificial neuron, the weights express the importance of the respective inputs to the output. By varying them as well as the threshold, we can get different models of decision-making. 
 
-<!-- Let's assume you would like to work from home today. You might make your decision by weighing up three factors (and their respective inputs and weights):
-
-  - Is the weather good? `x1` and `w1`
-  - Is the traffic good? `x2` and `w2`
-  - Do I wanna stay home with my lover? `x3` and `w3`
-
-We can represent these three factors by the corresponding binary inputs `x1, x2 and x3`. For instance, we'd have `x1 = 1` if the weather is good, and `x1 = 0` if the weather is bad. Similarly, `x2 = 1` if the traffic is good, and `x2 = 0` if not. And similarly again for `x3` if you wanna stay with your partner or not.
-
-You can use artificial neurons (and perceptrons in particular) for this kind of decision making. One way to do it is to choose a weigth `w3 = 6` to stay with your lover, `w2 = 2` and `w1 = 1` for the other conditions. The larger value of `w3` indiciated that your partner matters a lot to you. By choosing a threshold of 5, it doesn't matter if the weather is bad or if you are afaid to get fired. Now by changing the threshold to 3, 
- -->
-
 
 
 
